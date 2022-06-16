@@ -1,3 +1,3 @@
-module github.com/jinzhu/now
+module github.com/kursatarslan/now
 
 go 1.12
